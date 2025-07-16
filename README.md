@@ -9,6 +9,7 @@ I'm currently building impactful and creative projects using **React**, **Python
 ## 🚀 What I'm Working On
 - 🧠 **AI Writer Assistant** – A bilingual (Arabic/French) tool for writers powered by large language models.
 - 🎮 **Arabic Educandy Clone** – A gamified web app for Arabic vocabulary and grammar learning.
+- 💼 **Freelance Projects** – Open to remote web/AI freelance work.
 
 ---
 
