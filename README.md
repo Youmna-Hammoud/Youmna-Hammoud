@@ -2,7 +2,7 @@
 
 💻 AI Engineer & Full Stack Developer | 🎓 Engineering Student  
 
-I build web and AI solutions with **React**, **Python**, and **LLMs**, specializing in **Deep Learning**, Computer Vision, and Advanced LLMs.  
+I build web and AI solutions with **React**, **Python**, and **LLMs**. Recently completed The AI Engineers program, specializing in Computer Vision and Advanced LLMs.  
 
 **Tech:** React, JavaScript, TypeScript, Flask, Python, Git, Figma  
 
